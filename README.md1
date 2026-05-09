@@ -1,1 +1,0 @@
-# signstream-translator
